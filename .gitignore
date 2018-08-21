@@ -1,4 +1,6 @@
-*
-!Installed Packages/
-!Packages/
-!.gitignore
+Backup/
+Cache/
+Lib/
+Index/
+Local/
+.DS_Store

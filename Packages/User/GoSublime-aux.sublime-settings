@@ -1,0 +1,17 @@
+{
+	"9o.hist./Users/faith/Downloads/chichiPic":
+	[
+		"go list"
+	],
+	"9o.hist./usr/local/Cellar/go/1.7.5/src/printserve":
+	[
+		"go build",
+		"tskill go",
+		"run",
+		"go run main.go",
+		"tskill"
+	],
+	"ann": "a18.07.22-1",
+	"install_version": "r18.07.22-1",
+	"version": "r18.07.22-1"
+}

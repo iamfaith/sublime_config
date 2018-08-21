@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Code Snippets Helper",
+		"CodeFormatter",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"MarkdownPreview",
+		"Material Theme",
+		"Modific",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"Sublime Tutor",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"SublimeLinter-golint",
+		"SublimeTmpl"
+	]
+}

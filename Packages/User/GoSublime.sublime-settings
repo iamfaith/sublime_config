@@ -1,0 +1,4 @@
+{    "env": {
+        "GOPATH": "/usr/local/Cellar/go/1.7.5"
+    }
+}
