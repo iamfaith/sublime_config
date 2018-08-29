@@ -26,11 +26,13 @@
 		"Modific",
 		"Package Control",
 		"Predawn",
+		"Python Breakpoints",
 		"SideBarEnhancements",
 		"Sublime Tutor",
 		"SublimeAStyleFormatter",
 		"SublimeLinter",
 		"SublimeLinter-golint",
+		"SublimeREPL",
 		"SublimeTmpl"
 	]
 }
